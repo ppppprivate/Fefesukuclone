@@ -149,7 +149,7 @@ STREAMI_PICS = [
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/0pivxm.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/8k10fc.jpg"
 )
 
 HELP_IMG_URL = getenv(
