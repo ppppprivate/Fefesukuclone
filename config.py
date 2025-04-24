@@ -54,10 +54,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://t.me/The_Incricible")
+SOURCE = getenv("SOURCE", "https://github.com/mrtosumemon")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/fefefe12/Fefesukuclone",
+    "https://github.com/ppppprivate/Fefesukuclone",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
